@@ -37,6 +37,7 @@ From integrating complex APIs and databases to designing sleek UIs, I bring both
 
 <!--![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raph-royalty&show_icons=true&theme=tokyonight)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph-royalty&layout=compact&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/Raph-royalty/Raph-royalty/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
