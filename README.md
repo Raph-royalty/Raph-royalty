@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Raphael
+# 👋 Hi there, I'm Raphael
 
 🚀 **Full Stack Web & Mobile Developer | JavaScript Specialist | Founder at [Jalicorp Limited](https://jalicorp.com)**  
 
